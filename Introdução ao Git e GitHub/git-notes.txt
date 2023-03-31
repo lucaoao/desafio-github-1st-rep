@@ -1,0 +1,19 @@
+Funções básicas do Git (Não esquecer!):
+
+git init
+// inicializa a pasta no git
+
+git add .
+// prepara todos os arquivos da pasta pro commit
+
+git commit -m "mensagem"
+// commita tudo pro git
+
+git remote add origin <link>
+// liga o repositório do github à minha pasta
+
+git branch -M main
+// seta o branch de master pra main
+
+git push -u origin main
+// dá push
